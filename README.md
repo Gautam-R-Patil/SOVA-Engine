@@ -29,24 +29,18 @@
 
 **27 seconds. Three agents. One live target.**
 
-<video
-  src="https://raw.githubusercontent.com/TRUSCOR/SOVA-Engine/main/assets/demo-teaser.mp4"
-  poster="assets/demo-poster.jpg"
-  controls
-  muted
-  playsinline
-  width="100%">
-  <a href="assets/demo-teaser.mp4"><img src="assets/demo-poster.jpg" width="100%" alt="SOVA Engine demo: three agents running a live strike, with the score gauge and liability feed updating in real time" /></a>
-</video>
+<a href="assets/demo-teaser.mp4">
+  <img src="assets/demo-poster.jpg" width="100%" alt="SOVA Engine demo: Alpha, Beta and Gamma agents running a live strike while the resilience gauge and liability feed update in real time. Click to play." />
+</a>
 
-<sub><a href="assets/demo-teaser.mp4"><b>▶ Download / open the demo directly</b></a> &nbsp;·&nbsp; 1280×720 &nbsp;·&nbsp; 2.9 MB</sub>
+<sub><a href="assets/demo-teaser.mp4"><b>▶ Play the demo</b></a> &nbsp;·&nbsp; 27s &nbsp;·&nbsp; 1280×720 &nbsp;·&nbsp; 2.9 MB</sub>
 
 </div>
 
-The console shows what the engine does in one pass: **Alpha** runs reconnaissance,
-**Beta** explores the interface, **Gamma** delivers the payload, and the liability
-panel moves as each finding lands — every step written to `.sova` evidence as it
-happens, not reconstructed afterwards.
+One pass, start to finish: **Alpha** runs reconnaissance, **Beta** explores the
+interface, **Gamma** composes and delivers the payload — and the liability panel
+moves as each finding lands. Every step is written to `.sova` evidence while it
+happens, not reconstructed from logs afterwards.
 
 ---
 
