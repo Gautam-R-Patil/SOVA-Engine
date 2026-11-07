@@ -30,10 +30,10 @@
 **27 seconds. Three agents. One live target.**
 
 <a href="assets/demo-teaser.mp4">
-  <img src="assets/demo-poster.jpg" width="100%" alt="SOVA Engine demo: Alpha, Beta and Gamma agents running a live strike while the resilience gauge and liability feed update in real time. Click to play." />
+  <img src="assets/demo.gif" width="100%" alt="SOVA Engine running a live strike: Alpha, Beta and Gamma agents work in parallel while the resilience score falls from 850 to 420 and the run closes on an actuarial audit report." />
 </a>
 
-<sub><a href="assets/demo-teaser.mp4"><b>▶ Play the demo</b></a> &nbsp;·&nbsp; 27s &nbsp;·&nbsp; 1280×720 &nbsp;·&nbsp; 2.9 MB</sub>
+<sub><a href="assets/demo-teaser.mp4"><b>▶ Watch the full 27 seconds, at real speed and with sound</b></a> &nbsp;·&nbsp; 1280×720</sub>
 
 </div>
 
